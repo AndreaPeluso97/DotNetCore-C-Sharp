@@ -1,0 +1,13 @@
+C:\Users\Andrea\source\repos\app1\app1\bin\Debug\netcoreapp3.1\app1.exe
+C:\Users\Andrea\source\repos\app1\app1\bin\Debug\netcoreapp3.1\app1.deps.json
+C:\Users\Andrea\source\repos\app1\app1\bin\Debug\netcoreapp3.1\app1.runtimeconfig.json
+C:\Users\Andrea\source\repos\app1\app1\bin\Debug\netcoreapp3.1\app1.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\app1\app1\bin\Debug\netcoreapp3.1\app1.dll
+C:\Users\Andrea\source\repos\app1\app1\bin\Debug\netcoreapp3.1\app1.pdb
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.dll
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.pdb
+C:\Users\Andrea\source\repos\app1\app1\obj\Debug\netcoreapp3.1\app1.genruntimeconfig.cache
